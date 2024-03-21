@@ -1,0 +1,17 @@
+.w-450 {
+	width: 450px;
+}
+.vh-100 {
+	min-height: 100vh;
+}
+
+/* Radiant background color */
+
+.body-bg {
+	background: radial-gradient(circle, #A7E9E6, #FBBBCF);
+  }
+  
+  /* Background color for the form container */
+.form-container {
+	background-color: #f4f4f4; /* Use a different pastel color or any color you prefer */
+  }
